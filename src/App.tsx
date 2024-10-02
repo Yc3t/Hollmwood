@@ -5,7 +5,7 @@ import Chat from './pages/Chat'
 function App(){
   return (
     <Router>
-      <nav className='flex justify-center space-x-4 mt-0 bg-slate-300'>
+      <nav className='flex justify-center space-x-4 bg-slate-300 p-5'>
         <Link to="/" className='text-blue-500'>Home</Link>
         <Link to="/chat" className='text-blue-500'>chat</Link>
       </nav>
