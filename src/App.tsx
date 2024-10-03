@@ -7,8 +7,8 @@ import SearchInput from "./components/search-input";
 import Categories from "./components/categories";
 import prismadb from "./lib/prismadb";
 
-async function App() {
-  const categories = await prismadb.category.findMany();
+function App() {
+//  const categories = await prismadb.category.findMany();
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
       <Router>
@@ -22,7 +22,7 @@ async function App() {
               <div className="max-w-xl mx-auto"> {/* Add this wrapper */}
               <SearchInput />
               </div>
-              <Categories data = {categories} />
+
               <Routes>
                 <Route path="/chat" element={<Chat />} />
               </Routes>
