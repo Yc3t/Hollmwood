@@ -1,18 +1,20 @@
 import './App.css'
-import { BrowserRouter as Router, Routes, Route,Link } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Chat from './pages/Chat'
+import Navbar from './components/Navbar'
+import { ThemeProvider } from '@/components/theme-provider'
 
 function App(){
   return (
+  <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
+
     <Router>
-      <nav className='flex justify-center space-x-4 bg-slate-300 p-5'>
-        <Link to="/" className='text-blue-500'>Home</Link>
-        <Link to="/chat" className='text-blue-500'>chat</Link>
-      </nav>
+      <Navbar/>
       <Routes>
         <Route path="/chat" element={<Chat/>} />
       </Routes>
     </Router>
+    </ThemeProvider>
 
       
   )
