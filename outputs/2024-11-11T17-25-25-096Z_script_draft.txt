@@ -1,0 +1,32 @@
+<script_draft>
+
+<scene_heading>
+EXT. Crime scene at the town square; DAY.
+</scene_heading>
+
+<character_performance>
+<character>Detective John Smith</character>
+<performance>Detective John Smith steps out of his car and takes a deep breath, surveying the scene before him.</performance>
+</character_performance>
+
+<character_performance>
+<character>Officer Jane Doe</character>
+<performance>Officer Jane Doe greets Detective John Smith, looking worried and serious.</performance>
+</character_performance>
+
+<character_performance>
+<character>Detective John Smith</character>
+<performance>Detective John Smith approaches Officer Jane Doe, asking for an update on the situation.</performance>
+</character_performance>
+
+<character_performance>
+<character>Officer Jane Doe</character>
+<performance>Officer Jane Doe fills Detective John Smith in on the details, explaining what they've found so far at the crime scene.</performance>
+</character_performance>
+
+<character_performance>
+<character>Detective John Smith</character>
+<performance>Detective John Smith listens attentively, taking notes and asking questions as he begins to analyze the scene.</performance>
+</character_performance>
+
+</script_draft>

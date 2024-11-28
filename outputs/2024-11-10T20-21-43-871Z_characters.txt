@@ -1,0 +1,21 @@
+<characters>
+<character_1>
+<full_name>Emily Kate Richards</full_name>
+<character_introduction>Emily Kate Richards is a determined, 35-year-old female detective with short, curly brown hair and striking green eyes. She has a petite yet athletic build. Born and raised in this small town, she is deeply familiar with its intricate social fabric. Emily's ambitious and analytical mind drives her to solve the complex mystery of the disappearances. Her previous experience in dealing with similar crimes has prepared her for this challenge. Emily is determined to restore peace and order to her community and rebuild the trust between the residents and local law enforcement. Her personal life is relatively private, and her only real connections are her colleagues. Emily's sole goal in this investigation is to uncover the truth, even if it puts her own life at risk.</character_introduction>
+</character_1>
+
+<character_2>
+<full_name>Alexander Elijah Baker</full_name>
+<character_introduction>Alexander Elijah Baker is a 25-year-old male local news reporter with short, messy blond hair and warm brown eyes. His boyish charm endears him to the townspeople. Alexander has a deep personal connection to one of the missing individuals and sees this investigation as an opportunity to prove himself. Alexander often crosses paths with Emily, helping and hindering her investigation, while helping shape public opinion with his reporting. Alexander's sharp storytelling skills enable him to unearth unique and telling angles to the case, forcing Emily to admit there's more to Alexander than just good looks. As they work together, an unspoken partnership develops.</character_introduction>
+</character_2>
+
+<character_3>
+<full_name>Martin Jackson Collins</full_name>
+<character_introduction>Martin Jackson Collins is the relatively quiet 48-year-old town mayor who is facing pressure to maintain an atmosphere of safety and tranquility. Martin is an observant man with piercing brown eyes and a thinning patch of graying hair, often wearing intricately customized spectacles. Martin recognizes the potential consequences of the disappearances on local businesses and morale, pushing for Emily and her team to arrive at a prompt resolution. While he has some bureaucratic influence, Martin harbors some secrets of his own and quietly grapples with anxieties about potentially failing to contain the panic. Throughout the investigation, his actions walk a thin line between authority and manipulation.</character_introduction>
+</character_3>
+
+<character_4>
+<full_name>Adam Eric Foster</full_name>
+<character_introduction>Adam Eric Foster is Emily's seasoned 40-year-old partner and seasoned detective. A sturdy, gentle giant, with thick beard and eyes that resemble soft hazelnuts, Adam helps Emily in canvassing the local scene, gathering more leads, handling locals, and navigating the complexities of local lore. The two often discuss theories over meals, collaborating closely and building trust. Adam keeps a level head and often counters Emily's emotional responses with a calming influence. This duo has collaborated for years, deepening the connection and bringing comfort in the ever intensifying mist of disapperances.</character_introduction>
+</character_4>
+</characters>
